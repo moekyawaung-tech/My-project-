@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Getting Started",
+    "description": "Learn how to start using this wiki project.",
+    "link": "pages/guides.html"
+  },
+  {
+    "title": "About This Wiki",
+    "description": "Read more about the purpose of this website.",
+    "link": "pages/about.html"
+  },
+  {
+    "title": "Tutorial Collection",
+    "description": "Browse useful tutorials and references.",
+    "link": "pages/tutorials.html"
+  }
+]
+
